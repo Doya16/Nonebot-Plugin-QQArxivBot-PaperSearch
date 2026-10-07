@@ -1,3 +1,7 @@
+<!-- README language switch -->
+[![中文](https://img.shields.io/badge/%E4%B8%AD%E6%96%87-1677ff?style=for-the-badge)](README.md) [![English](https://img.shields.io/badge/English-555555?style=for-the-badge)](README.en.md)
+<!-- /README language switch -->
+
 # Nonebot-Plugin  Arxiv Paper Search
 
 🔍 基于 [NoneBot2](https://v2.nonebot.dev/) 的插件，支持从 arXiv 获取指定分类的最新论文摘要，适用于科研讨论群、AI/ML 技术交流群等。
